@@ -1,4 +1,4 @@
-# Introduction to Probability and Statistics - Spring 2019
+# Introduction to Probability and Statistics - Spring 2020
 
 ### BMI 6106
 
